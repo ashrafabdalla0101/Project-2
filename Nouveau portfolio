@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ashraf Abdalla | Professional Portfolio</title>
+
+<style>
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #000000, #0f1a2b, #1a0033);
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+header h1 {
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+header p {
+    color: #ccc;
+    font-size: 18px;
+}
+
+.profile-img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #ffffff;
+    margin-top: 20px;
+}
+
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h2 {
+    border-left: 5px solid #00bfff;
+    padding-left: 12px;
+    margin-bottom: 25px;
+}
+
+.card {
+    background: rgba(255,255,255,0.05);
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    background: rgba(255,255,255,0.1);
+    transform: translateY(-5px);
+}
+
+ul {
+    line-height: 1.8;
+}
+
+button {
+    padding: 12px 25px;
+    background: #00bfff;
+    border: none;
+    border-radius: 25px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background: #ff66cc;
+}
+
+a {
+    color: #00bfff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    background: rgba(0,0,0,0.6);
+    margin-top: 40px;
+    color: #aaa;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #ff66cc;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+    <div class="logo">ASHRAF ABDALLA</div>
+    <img src="https://photos.app.goo.gl/kv7CZvZttFAYUXnP9.src" alt="Ashraf Abdalla" class="profile-img">
+    <h1>cyber boy | Ex Student | Future Healthcare Professional</h1>
+    <p>Dedicated, disciplined and passionate about leadership, psychology, and personal development.</p>
+</header>
+
+<section>
+<h2>About Me</h2>
+<div class="card">
+<p>
+I am a motivated and responsible young professional currently serving as an idle form four leaver 
+while continuing my academic journey. I am deeply passionate about healthcare, 
+counselling psychology, and leadership development.
+</p>
+
+<p>
+I believe in discipline, continuous improvement, and maintaining high professional 
+standards in everything I do. My ability to communicate fluently in English, 
+French, and Swahili enables me to connect with diverse communities.
+</p>
+
+<p>
+My long-term goal is to build a career that combines healthcare management, 
+mental health support, and community leadership.
+</p>
+</div>
+</section>
+
+<section>
+<h2>Personal Information</h2>
+<div class="card">
+<ul>
+<li><strong>Date of Birth:</strong> 27 December 2007</li>
+<li><strong>Gender:</strong> Male</li>
+<li><strong>Marital Status:</strong> Single</li>
+<li><strong>Nationality:</strong> Kenyan</li>
+<li><strong>Religion:</strong> Agnostic </li>
+<li><strong>Address:</strong> 2104-90100, Kyumbi, Machakos</li>
+</ul>
+</div>
+</section>
+
+<section>
+<h2>Education Background</h2>
+
+<div class="card">
+<h3>Njoro Boys High School</h3>
+<p>KCSE – C+ (2022 – 2025)</p>
+<p>
+Developed strong analytical skills, discipline, leadership abilities, and 
+academic consistency throughout my secondary education.
+</p>
+</div>
+
+<div class="card">
+<h3>Kipketer Primary School</h3>
+<p>KCPE – 366/500 (2014 – 2021)</p>
+<p>
+Built strong academic foundations and demonstrated commitment to excellence.
+</p>
+</div>
+
+</section>
+
+<section>
+<h2>Professional Skills</h2>
+<div class="card">
+<ul>
+<li>Fluent in English, French and Swahili</li>
+<li>Leadership and Team Coordination</li>
+<li>Counselling Psychology Certification (Completion January 2026)</li>
+<li>html and jss skilled</li>
+<li>Strong Communication and Problem Solving</li>
+</ul>
+</div>
+</section>
+
+<section>
+<h2>Interests & Personal Development</h2>
+<div class="card">
+<ul>
+<li>Cooking and culinary creativity</li>
+<li>Listening to music for focus and relaxation</li>
+<li>Nature walking and reflection</li>
+<li>Personal growth and productivity systems</li>
+</ul>
+</div>
+</section>
+
+<section>
+<h2>Contact Information</h2>
+<div class="card">
+<p><strong>Email:</strong> <a href="mailto:ashrafabdalla2o7@gmail.com">ashrafabdalla2o7@gmail.com</a></p>
+<p><strong>Phone:</strong> <a href="tel:+254785117163">+254785117163</a></p>
+<p><strong>whatsapp:</strong> <a href="whatsappto:+254785117163">+254785117163</a></p>
+ <p><strong>Instagram:</strong> <a href="https://www.instagram.com/4_.5h.r4f?igsh=MTBvemp0OWsxcDdmaA==">Ashraf Abdalla</a></p>
+</div>
+</section>
+
+<section style="text-align:center;">
+<h2>Download My CV</h2>
+<a href="cv.pdf" download>
+<button>Download CV</button>
+</a>
+</section>
+
+<footer>
+© 2026 Ashraf Abdalla | Professional Portfolio
+</footer>
+
+</body>
+</html>
